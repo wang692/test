@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 iiii2211112:# test
+=======
+# test
+111111111111
+>>>>>>> origin/master
