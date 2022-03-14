@@ -4,13 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <list default="true" id="3e3c5ca0-2a35-4623-a889-f24bc88a77f3" name="Default Changelist" comment="has rev3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="f2f08987-d525-4a32-ae7c-85a1928e246e" name="Revert &quot;test7&quot;" comment="Revert &quot;test7&quot;&#10;&#10;This reverts commit 323dc36b" />
+=======
+    <list default="true" id="eec6a485-cc87-4c11-9aa3-db494b0014ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> origin/master
+=======
     <list default="true" id="eec6a485-cc87-4c11-9aa3-db494b0014ad" name="Default Changelist" comment="" />
+>>>>>>> origin/master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -45,7 +64,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eec6a485-cc87-4c11-9aa3-db494b0014ad" name="Default Changelist" comment="" />
+      <changelist id="3e3c5ca0-2a35-4623-a889-f24bc88a77f3" name="Default Changelist" comment="has rev3" />
       <created>1646998772006</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -54,8 +73,160 @@
       <workItem from="1647041374038" duration="2312000" />
       <workItem from="1647046569151" duration="3346000" />
       <workItem from="1647054699403" duration="1126000" />
-      <workItem from="1647170051567" duration="1001000" />
+<<<<<<< HEAD
+      <workItem from="1647214642745" duration="1147000" />
     </task>
+    <task id="LOCAL-00001" summary="revert test">
+      <created>1647174424529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647174424529</updated>
+    </task>
+    <task id="LOCAL-00002" summary="11111">
+      <created>1647174571767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647174571767</updated>
+    </task>
+    <task id="LOCAL-00003" summary="11111222">
+      <created>1647174581086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647174581086</updated>
+    </task>
+    <task id="LOCAL-00004" summary="11111222222">
+      <created>1647174592338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647174592338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test2">
+      <created>1647174607379</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647174607379</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test3">
+      <created>1647174696082</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647174696082</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test3">
+      <created>1647174703722</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647174703722</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test4">
+      <created>1647174737617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647174737617</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test5">
+      <created>1647174769076</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647174769076</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test6">
+      <created>1647175354971</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1647175354971</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test7">
+      <created>1647175373459</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1647175373459</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test7">
+      <created>1647175563054</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1647175563054</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test8">
+      <created>1647175636767</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1647175636767</updated>
+    </task>
+    <task id="LOCAL-00014" summary="test9">
+      <created>1647175646422</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1647175646422</updated>
+=======
+      <workItem from="1647170051567" duration="1001000" />
+>>>>>>> origin/master
+    </task>
+    <task id="LOCAL-00015" summary="test10">
+      <created>1647175976858</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1647175976858</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test11">
+      <created>1647175991820</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1647175991820</updated>
+    </task>
+    <task id="LOCAL-00017" summary="test13">
+      <created>1647176178738</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1647176178738</updated>
+    </task>
+    <task id="LOCAL-00018" summary="test14">
+      <created>1647176191542</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1647176191542</updated>
+    </task>
+    <task id="LOCAL-00019" summary="test15">
+      <created>1647176201681</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1647176201681</updated>
+    </task>
+    <task id="LOCAL-00020" summary="has rev">
+      <created>1647177835545</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1647177835545</updated>
+    </task>
+    <task id="LOCAL-00021" summary="has rev3">
+      <created>1647178162447</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1647178162447</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +242,44 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="revert test" />
+    <MESSAGE value="11111" />
+    <MESSAGE value="11111222" />
+    <MESSAGE value="11111222222" />
+    <MESSAGE value="test2" />
+    <MESSAGE value="test3" />
+    <MESSAGE value="test4" />
+    <MESSAGE value="test5" />
+    <MESSAGE value="test6" />
+    <MESSAGE value="test7" />
+    <MESSAGE value="test8" />
+    <MESSAGE value="test9" />
+    <MESSAGE value="test10" />
+    <MESSAGE value="test11" />
+    <MESSAGE value="test12" />
+    <MESSAGE value="test13" />
+    <MESSAGE value="test14" />
+    <MESSAGE value="test15" />
+    <MESSAGE value="has rev" />
+    <MESSAGE value="has rev3" />
+    <option name="LAST_COMMIT_MESSAGE" value="has rev3" />
   </component>
 </project>
