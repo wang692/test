@@ -1,7 +1,11 @@
 test
 test2
 
+<<<<<<< HEAD
 914 wzh1 :
+=======
+913 modify
+>>>>>>> origin/master
 
 choose middle
 
