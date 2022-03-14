@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3e3c5ca0-2a35-4623-a889-f24bc88a77f3" name="Default Changelist" comment="has rev3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="f2f08987-d525-4a32-ae7c-85a1928e246e" name="Revert &quot;test7&quot;" comment="Revert &quot;test7&quot;&#10;&#10;This reverts commit 323dc36b" />
+=======
+    <list default="true" id="eec6a485-cc87-4c11-9aa3-db494b0014ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> origin/master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +69,7 @@
       <workItem from="1647041374038" duration="2312000" />
       <workItem from="1647046569151" duration="3346000" />
       <workItem from="1647054699403" duration="1126000" />
+<<<<<<< HEAD
       <workItem from="1647214642745" duration="1147000" />
     </task>
     <task id="LOCAL-00001" summary="revert test">
@@ -162,6 +169,9 @@
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
       <updated>1647175646422</updated>
+=======
+      <workItem from="1647170051567" duration="1001000" />
+>>>>>>> origin/master
     </task>
     <task id="LOCAL-00015" summary="test10">
       <created>1647175976858</created>
