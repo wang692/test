@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59c88dce-d474-4f23-9727-35df4172191d" name="Default Changelist" comment="" />
+    <list default="true" id="59c88dce-d474-4f23-9727-35df4172191d" name="Default Changelist" comment="202204301209 test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,8 +42,37 @@
       <option name="presentableId" value="Default" />
       <updated>1651289338727</updated>
       <workItem from="1651289339929" duration="139000" />
-      <workItem from="1651289532398" duration="1439000" />
+      <workItem from="1651289532398" duration="2534000" />
     </task>
+    <task id="LOCAL-00001" summary="202204301207 test">
+      <created>1651291707265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651291707265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="202204301208 test">
+      <created>1651291719256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651291719256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="202204301208 test">
+      <created>1651291731959</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651291731959</updated>
+    </task>
+    <task id="LOCAL-00004" summary="202204301209 test">
+      <created>1651291743575</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651291743575</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -54,5 +86,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="202204301207 test" />
+    <MESSAGE value="202204301208 test" />
+    <MESSAGE value="202204301209 test" />
+    <option name="LAST_COMMIT_MESSAGE" value="202204301209 test" />
   </component>
 </project>
