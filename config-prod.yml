@@ -1,2 +1,15 @@
-user:
-  name: "张三 prod" 
+server:
+  port: 8090
+spring:
+  application:
+    name: config-server  # 应用名称
+  cloud:
+    config:
+#      server:
+#        git:
+        # 配置中心仓库地址
+        uri: https://github.com/wang692/test.git #配置文件所在仓库
+        username: wang692
+        password: Wang991011
+        default-label: master #配置文件分支
+        token: 12111test
